@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "categoryId": 1,
+      "author": "Author 1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit aenean, maecenas dui cursus metus parturient vel sodales congue facilisis, nascetur mus condimentum purus proin fringilla eget. Eu mi quis quisque ridiculus nibh class eleifend augue, magnis vulputate diam pulvinar aliquam iaculis nascetur. Conubia suspendisse ut elementum taciti aptent tellus mus dictumst, dis tempor pretium id morbi faucibus ligula, neque habitasse risus hendrerit eget lectus blandit. Varius rutrum cras ut vulputate enim interdum platea vivamus dapibus nascetur condimentum tincidunt, hendrerit velit facilisis ante et bibendum blandit fringilla sagittis sollicitudin nisi, erat ornare mauris quis magnis augue imperdiet id semper arcu consequat. Ad ut tempor pellentesque parturient ligula fames dis gravida lectus quam rutrum, primis duis potenti donec fusce pharetra placerat per iaculis himenaeos nam aliquet, taciti magnis neque morbi rhoncus in suspendisse faucibus sem eros. Eleifend varius interdum morbi pretium iaculis auctor, suscipit risus habitasse commodo purus, non blandit fames odio dictum."
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "categoryId": 1,
+      "author": "Author 2",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit aenean, maecenas dui cursus metus parturient vel sodales congue facilisis, nascetur mus condimentum purus proin fringilla eget. Eu mi quis quisque ridiculus nibh class eleifend augue, magnis vulputate diam pulvinar aliquam iaculis nascetur. Conubia suspendisse ut elementum taciti aptent tellus mus dictumst, dis tempor pretium id morbi faucibus ligula, neque habitasse risus hendrerit eget lectus blandit. Varius rutrum cras ut vulputate enim interdum platea vivamus dapibus nascetur condimentum tincidunt, hendrerit velit facilisis ante et bibendum blandit fringilla sagittis sollicitudin nisi, erat ornare mauris quis magnis augue imperdiet id semper arcu consequat. Ad ut tempor pellentesque parturient ligula fames dis gravida lectus quam rutrum, primis duis potenti donec fusce pharetra placerat per iaculis himenaeos nam aliquet, taciti magnis neque morbi rhoncus in suspendisse faucibus sem eros. Eleifend varius interdum morbi pretium iaculis auctor, suscipit risus habitasse commodo purus, non blandit fames odio dictum."
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "categoryId": 2,
+      "author": "Author 1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit aenean, maecenas dui cursus metus parturient vel sodales congue facilisis, nascetur mus condimentum purus proin fringilla eget. Eu mi quis quisque ridiculus nibh class eleifend augue, magnis vulputate diam pulvinar aliquam iaculis nascetur. Conubia suspendisse ut elementum taciti aptent tellus mus dictumst, dis tempor pretium id morbi faucibus ligula, neque habitasse risus hendrerit eget lectus blandit. Varius rutrum cras ut vulputate enim interdum platea vivamus dapibus nascetur condimentum tincidunt, hendrerit velit facilisis ante et bibendum blandit fringilla sagittis sollicitudin nisi, erat ornare mauris quis magnis augue imperdiet id semper arcu consequat. Ad ut tempor pellentesque parturient ligula fames dis gravida lectus quam rutrum, primis duis potenti donec fusce pharetra placerat per iaculis himenaeos nam aliquet, taciti magnis neque morbi rhoncus in suspendisse faucibus sem eros. Eleifend varius interdum morbi pretium iaculis auctor, suscipit risus habitasse commodo purus, non blandit fames odio dictum."
+      }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment 2",
+      "postId": 1
+    },
+    {
+        "id": 3,
+        "body": "some comment 3",
+        "postId": 2
+      },
+      {
+        "id": 4,
+        "body": "some comment 4",
+        "postId": 3
+      }
+  ],
+  "categories": [
+    {
+        "id": 1,
+        "title": "Category 1"
+    },
+    {
+        "id": 2,
+        "title": "Category 2"
+    },
+    {
+        "id": 3,
+        "title": "Category 3"
+    }
+  ]
+}
