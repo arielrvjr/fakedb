@@ -49,22 +49,6 @@
       "author": "Author 1",
       "image": "https://via.placeholder.com/150",
       "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit aenean, maecenas dui cursus metus parturient vel sodales congue facilisis, nascetur mus condimentum purus proin fringilla eget. Eu mi quis quisque ridiculus nibh class eleifend augue, magnis vulputate diam pulvinar aliquam iaculis nascetur."
-      },
-    {
-      "id": 7,
-      "title": "Post 7",
-      "categoryId": 3,
-      "author": "Author 3",
-      "image": "https://via.placeholder.com/150",
-      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit aenean, maecenas dui cursus metus parturient vel sodales congue facilisis, nascetur mus condimentum purus proin fringilla eget. Eu mi quis quisque ridiculus nibh class eleifend augue, magnis vulputate diam pulvinar aliquam iaculis nascetur."
-      },
-    {
-      "id": 8,
-      "title": "Post 8",
-      "categoryId": 3,
-      "author": "Author 2",
-      "image": "https://via.placeholder.com/150",
-      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit aenean, maecenas dui cursus metus parturient vel sodales congue facilisis, nascetur mus condimentum purus proin fringilla eget. Eu mi quis quisque ridiculus nibh class eleifend augue, magnis vulputate diam pulvinar aliquam iaculis nascetur."
       }],
   "comments": [{"id": 1,"body": "some comment 1","postId": 1},
     {
