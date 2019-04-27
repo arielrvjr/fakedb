@@ -5,7 +5,7 @@
       "title": "Post 1",
       "categoryId": 1,
       "author": "Author 1",
-      "image": "https://picsum.photos/200",
+      "image": "https://via.placeholder.com/150",
       "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit aenean, maecenas dui cursus metus parturient vel sodales congue facilisis, nascetur mus condimentum purus proin fringilla eget. Eu mi quis quisque ridiculus nibh class eleifend augue, magnis vulputate diam pulvinar aliquam iaculis nascetur."
     },
     {
@@ -13,7 +13,7 @@
       "title": "Post 2",
       "categoryId": 1,
       "author": "Author 2",
-      "image": "https://picsum.photos/200",
+      "image": "https://via.placeholder.com/150",
       "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit aenean, maecenas dui cursus metus parturient vel sodales congue facilisis, nascetur mus condimentum purus proin fringilla eget. Eu mi quis quisque ridiculus nibh class eleifend augue, magnis vulputate diam pulvinar aliquam iaculis nascetur."
     },
     {
@@ -21,7 +21,7 @@
       "title": "Post 3",
       "categoryId": 2,
       "author": "Author 1",
-      "image": "https://picsum.photos/200",
+      "image": "https://via.placeholder.com/150",
       "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit aenean, maecenas dui cursus metus parturient vel sodales congue facilisis, nascetur mus condimentum purus proin fringilla eget. Eu mi quis quisque ridiculus nibh class eleifend augue, magnis vulputate diam pulvinar aliquam iaculis nascetur."
       },
     {
@@ -29,7 +29,7 @@
       "title": "Post 4",
       "categoryId": 3,
       "author": "Author 3",
-      "image": "https://picsum.photos/200",
+      "image": "https://via.placeholder.com/150",
       "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit aenean, maecenas dui cursus metus parturient vel sodales congue facilisis, nascetur mus condimentum purus proin fringilla eget. Eu mi quis quisque ridiculus nibh class eleifend augue, magnis vulputate diam pulvinar aliquam iaculis nascetur."
       }
     ,
@@ -38,7 +38,7 @@
       "title": "Post 5",
       "categoryId": 2,
       "author": "Author 3",
-      "image": "https://picsum.photos/200",
+      "image": "https://via.placeholder.com/150",
       "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit aenean, maecenas dui cursus metus parturient vel sodales congue facilisis, nascetur mus condimentum purus proin fringilla eget. Eu mi quis quisque ridiculus nibh class eleifend augue, magnis vulputate diam pulvinar aliquam iaculis nascetur."
       }
     ,
@@ -47,7 +47,7 @@
       "title": "Post 6",
       "categoryId": 1,
       "author": "Author 1",
-      "image": "https://picsum.photos/200",
+      "image": "https://via.placeholder.com/150",
       "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit aenean, maecenas dui cursus metus parturient vel sodales congue facilisis, nascetur mus condimentum purus proin fringilla eget. Eu mi quis quisque ridiculus nibh class eleifend augue, magnis vulputate diam pulvinar aliquam iaculis nascetur."
       }],
   "comments": [{"id": 1,"body": "some comment 1","postId": 1},
